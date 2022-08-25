@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.title{
+	font-size: 36px
+	font-weight: 600;
+	color: black;
+	text-align: center;
+	line-height: 1.2
+}
+
+.btn{
+	margin: 15px 0;
+	font-family: adrianna-extended;
+	color: white;
+	border-color: #7e551b;
+	background-color: black;
+	text-transform: uppercase;
+	text-align: center;
+	border: 1px solid #ff8f1c;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: all .3s ease;
+	display: inline-block;
+	font: inherit;
+	height: 40px;
+	width: 150px
+}
+.btn:hover{
+	background-color: maroon;
+}
+.para{
+	line-height: 1.5;
+	margin: 1em 0;
+	font-size: 1.1em;
+	text-align: center;
+	color: #7e551b;
+	font-family: adelle-sans,sans-serif
+}
